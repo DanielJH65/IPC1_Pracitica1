@@ -1,0 +1,26 @@
+body{
+    background: #1c92d2;
+    background: -webkit-linear-gradient(to right, #d6f1f7, #1c92d2);
+    background: linear-gradient(to right, #d6f1f7, #1c92d2);
+    text-align: center;
+}
+h1{
+    color:#0B610B;
+    font-family: Lucida Sans;
+}
+h2{
+    color:#08088A;
+    font-family: Lucida Sans;
+}
+table{
+    border-color: #666253;
+    border-style: 1;
+}
+p{
+    font-family: Lucida Sans;
+    color: #8A2908;
+}
+h3{
+    font-family: Lucida Sans;
+    color: #B40404;
+}
